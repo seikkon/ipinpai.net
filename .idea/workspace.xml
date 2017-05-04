@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6042a65-e30c-4a05-8a04-283b8d011f42" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/mejs-controls.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -345,7 +343,7 @@
       <workItem from="1493481090531" duration="8255000" />
       <workItem from="1493660732000" duration="1227000" />
       <workItem from="1493738779306" duration="12127000" />
-      <workItem from="1493840914054" duration="4718000" />
+      <workItem from="1493840914054" duration="4738000" />
     </task>
     <task id="LOCAL-00001" summary="add mediaelement.js">
       <created>1493841409107</created>
@@ -368,11 +366,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493858912877</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add mediaelement.js">
+      <created>1493858938613</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1493858938613</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28573000" />
+    <option name="totallyTimeSpent" value="28593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="28" width="1282" height="963" extended-state="6" />
